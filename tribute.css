@@ -1,0 +1,53 @@
+
+#main {
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: rgb(230, 125, 176);
+    border-radius: 5px;
+    background-blend-mode: luminosity;
+
+}
+
+#title {
+    text-align: center;
+}
+
+#main > p {
+    text-align: center;
+}
+
+#main >h2 {
+    text-align: center;
+}
+#img-div {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: aliceblue;
+    filter: drop-shadow(10px 10px 10px rgba(222, 162, 246, 0.612));
+}
+#img-div >figcaption {
+    text-align: center;
+}
+#image {
+    display: black;
+    max-width: 100%;
+    padding-bottom: 10px;
+
+}
+
+#tribute-info {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+#main > h5{
+    text-align: center;
+}
+
+#main > h3 {
+    text-align: center;
+}
